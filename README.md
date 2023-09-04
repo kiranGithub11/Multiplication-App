@@ -1,4 +1,3 @@
-# Multiplication-App
 # Simple Multiplication App
 
 ![Screenshot 2023-09-04 091648](https://github.com/kiranGithub11/Multiplication-App/assets/114862267/26fc05d5-9636-4504-b172-ff7c6564e8a9)
